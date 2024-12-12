@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name is Shashitha Chamod and I'm a Software engineer, from Sri Lanka.</h2>
+<h2 align="center">Hi 👋! My name is Shashitha and I'm a Software Engineering student, from Sri Lanka.</h2>
 
 ###
 
